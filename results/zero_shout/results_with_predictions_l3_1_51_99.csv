@@ -1,0 +1,429 @@
+lfdn,vote,prompt_A,CDU/CSU,SPD,Bündnis 90/Die Grünen,AfD,Die Linke,FDP,raw_response
+58,Bündnis 90/Die Grünen,"Ich bin 45 Jahre alt. Ich bin männlich. Ich habe einen Hochschulabschluss. Ich bin berufstätig. Ich bin überhaupt nicht religiös. Politisch-ideologisch ordne ich mich in der Mitte ein. Ich identifiziere mich mäßig mit der Partei Bündnis 90/Die Grünen. Ich lebe in Westdeutschland. Ich finde, die Regierung sollte die Einwanderung erleichtern. Ich habe keine Meinung dazu, ob die Regierung Maßnahmen ergreifen sollte, um die Einkommensunterschiede zu verringern. ",20,30,0,5,0,5,"{ ""parteien"": [
+    { ""name"": ""CDU/CSU"", ""wahrscheinlichkeit"": 20 },
+    { ""name"": ""SPD"", ""wahrscheinlichkeit"": 30 },
+    { ""name"": ""Grüne"", ""wahrscheinlichkeit"": 40 },
+    { ""name"": ""AfD"", ""wahrscheinlichkeit"": 5 },
+    { ""name"": ""Linke"", ""wahrscheinlichkeit"": 0 },
+    { ""name"": ""FDP"", ""wahrscheinlichkeit"": 5 }
+] }"
+59,CDU/CSU,"Ich bin 37 Jahre alt. Ich bin männlich. Ich habe einen Hochschulabschluss. Ich habe ein hohes monatliches Haushalts-Nettoeinkommen. Ich bin berufstätig. Ich bin etwas religiös. Politisch-ideologisch ordne ich mich in der Mitte ein. Ich identifiziere mich ziemlich stark mit der Partei CDU/CSU. Ich lebe in Westdeutschland. Ich finde, die Regierung sollte die Einwanderung erleichtern. Ich finde, die Regierung sollte keine Maßnahmen ergreifen, um die Einkommensunterschiede zu verringern. ",20,30,50,0,0,0,"{ ""parteien"": [
+  {""name"":""CDU/CSU"",""wahrscheinlichkeit"":20},
+  {""name"":""SPD"",""wahrscheinlichkeit"":30},
+  {""name"":""Grünen"",""wahrscheinlichkeit"":50}
+]
+}"
+60,SPD,"Ich bin 59 Jahre alt. Ich bin männlich. Ich habe einen Hochschulabschluss. Ich habe ein mittleres monatliches Haushalts-Nettoeinkommen. Ich bin berufstätig. Ich bin überhaupt nicht religiös. Politisch-ideologisch ordne ich mich mittig links ein. Ich identifiziere mich ziemlich stark mit der Partei Die Linke. Ich lebe in Westdeutschland. Ich finde, die Regierung sollte die Einwanderung erleichtern. Ich finde, die Regierung sollte Maßnahmen ergreifen, um die Einkommensunterschiede zu verringern. ",2,10,25,0,60,3,"{ ""parteien"": [
+  {""name"":""CDU/CSU"",""wahrscheinlichkeit"":2},
+  {""name"":""SPD"",""wahrscheinlichkeit"":10},
+  {""name"":""Grünen"",""wahrscheinlichkeit"":25},
+  {""name"":""AfD"",""wahrscheinlichkeit"":0},
+  {""name"":""Die Linke"",""wahrscheinlichkeit"":60},
+  {""name"":""FDP"",""wahrscheinlichkeit"":3}
+]}"
+62,SPD,"Ich bin 45 Jahre alt. Ich bin männlich. Ich habe Abitur. Ich habe ein mittleres monatliches Haushalts-Nettoeinkommen. Ich bin berufstätig. Ich bin sehr religiös. Politisch-ideologisch ordne ich mich mittig links ein. Ich identifiziere mich ziemlich stark mit der Partei SPD. Ich lebe in Westdeutschland. Ich finde, die Regierung sollte die Einwanderung erleichtern. Ich finde, die Regierung sollte keine Maßnahmen ergreifen, um die Einkommensunterschiede zu verringern. ",20,25,50,0,5,0,"{ ""parteien"": [
+  {""name"":""SPD"",""wahrscheinlichkeit"":25},
+  {""name"":""Grünen"",""wahrscheinlichkeit"":50},
+  {""name"":""CDU/CSU"",""wahrscheinlichkeit"":20},
+  {""name"":""Die Linke"",""wahrscheinlichkeit"":5}
+] }"
+63,SPD,"Ich bin 73 Jahre alt. Ich bin männlich. Ich habe einen Hochschulabschluss. Ich habe ein hohes monatliches Haushalts-Nettoeinkommen. Ich bin nicht berufstätig. Ich bin etwas religiös. Politisch-ideologisch ordne ich mich mittig links ein. Ich identifiziere mich ziemlich stark mit der Partei SPD. Ich lebe in Westdeutschland. Ich finde, die Regierung sollte die Einwanderung erleichtern. Ich finde, die Regierung sollte Maßnahmen ergreifen, um die Einkommensunterschiede zu verringern. ",5,80,15,0,0,0,"{ ""parteien"": [
+  {""name"": ""SPD"", ""wahrscheinlichkeit"": 80},
+  {""name"": ""Grünen"", ""wahrscheinlichkeit"": 15},
+  {""name"": ""CDU/CSU"", ""wahrscheinlichkeit"": 5}
+]
+}
+ "
+64,AfD,"Ich bin 55 Jahre alt. Ich bin männlich. Ich habe einen Hochschulabschluss. Ich habe ein mittleres monatliches Haushalts-Nettoeinkommen. Ich bin berufstätig. Ich bin etwas religiös. Politisch-ideologisch ordne ich mich mittig rechts ein. Ich identifiziere mich mäßig mit der Partei AfD. Ich lebe in Westdeutschland. Ich finde, die Regierung sollte die Einwanderung einschränken. Ich finde, die Regierung sollte keine Maßnahmen ergreifen, um die Einkommensunterschiede zu verringern. ",40,10,0,20,0,0,"{ ""parteien"": [
+  { ""name"": ""CDU/CSU"" , ""wahrscheinlichkeit"": 40 },
+  { ""name"": ""SPD"" , ""wahrscheinlichkeit"": 10},
+  { ""name"": ""Grüne"" , ""wahrscheinlichkeit"": 30},
+  { ""name"": ""AfD"" , ""wahrscheinlichkeit"": 20},
+  { ""name"": ""Die Linke"" , ""wahrscheinlichkeit"": 0 },
+  { ""name"": ""FDP"" , ""wahrscheinlichkeit"": 0 }
+] }"
+65,Nicht gewählt,"Ich bin 49 Jahre alt. Ich bin weiblich. Ich habe einen Hauptschulabschluss. Ich habe ein mittleres monatliches Haushalts-Nettoeinkommen. Ich bin berufstätig. Ich bin etwas religiös. Politisch-ideologisch ordne ich mich in der Mitte ein. Ich identifiziere mich mäßig mit der Partei CDU/CSU. Ich lebe in Westdeutschland. Ich finde, die Regierung sollte die Einwanderung weder erleichtern noch einschränken. Ich finde, die Regierung sollte Maßnahmen ergreifen, um die Einkommensunterschiede zu verringern. ",30,40,20,0,5,5,"{ ""parteien"": [
+  {""name"": ""SPD"", ""wahrscheinlichkeit"": 40}, { ""name"": ""CDU/CSU"", ""wahrscheinlichkeit"": 30 }, { ""name"": ""Grünen"", ""wahrscheinlichkeit"": 20 }, { ""name"": ""Die Linke"", ""wahrscheinlichkeit"": 5 }, {""name"": ""FDP"", ""wahrscheinlichkeit"": 5 }
+] }"
+66,CDU/CSU,"Ich bin 55 Jahre alt. Ich bin männlich. Ich habe einen Realschulabschluss. Ich habe ein mittleres monatliches Haushalts-Nettoeinkommen. Ich bin berufstätig. Ich bin etwas religiös. Politisch-ideologisch ordne ich mich in der Mitte ein. Ich identifiziere mich mit keiner Partei. Ich lebe in Westdeutschland. Ich finde, die Regierung sollte die Einwanderung einschränken. Ich finde, die Regierung sollte Maßnahmen ergreifen, um die Einkommensunterschiede zu verringern. ",30,40,0,5,0,15,"{ ""parteien"": [
+  { ""name"": ""SPD"", ""wahrscheinlichkeit"": 40 },
+  { ""name"": ""CDU/CSU"", ""wahrscheinlichkeit"": 30 },
+  { ""name"": ""FDP"", ""wahrscheinlichkeit"": 15 },
+  { ""name"": ""Grüne"", ""wahrscheinlichkeit"": 10 },
+  { ""name"": ""AfD"", ""wahrscheinlichkeit"": 5 }
+] }"
+67,Bündnis 90/Die Grünen,"Ich bin 31 Jahre alt. Ich bin weiblich. Ich habe einen Hochschulabschluss. Ich habe ein hohes monatliches Haushalts-Nettoeinkommen. Ich bin berufstätig. Ich bin etwas religiös. Politisch-ideologisch ordne ich mich mittig links ein. Ich identifiziere mich ziemlich stark mit der Partei Bündnis 90/Die Grünen. Ich lebe in Westdeutschland. Ich finde, die Regierung sollte die Einwanderung erleichtern. Ich habe keine Meinung dazu, ob die Regierung Maßnahmen ergreifen sollte, um die Einkommensunterschiede zu verringern. ",10,20,60,0,5,5,"{ ""parteien"": [
+    { ""name"": ""Grünen"", ""wahrscheinlichkeit"": 60 },
+    { ""name"": ""SPD"", ""wahrscheinlichkeit"": 20 },
+    { ""name"": ""CDU/CSU"", ""wahrscheinlichkeit"": 10 },
+    { ""name"": ""FDP"", ""wahrscheinlichkeit"": 5 },
+    { ""name"": ""AfD"", ""wahrscheinlichkeit"": 0 },
+    { ""name"": ""Die Linke"", ""wahrscheinlichkeit"": 5 }
+] }"
+68,Bündnis 90/Die Grünen,"Ich bin 26 Jahre alt. Ich bin weiblich. Ich habe einen Hochschulabschluss. Ich habe ein mittleres monatliches Haushalts-Nettoeinkommen. Ich bin berufstätig. Ich bin nicht sehr religiös. Politisch-ideologisch ordne ich mich mittig links ein. Ich identifiziere mich mit keiner Partei. Ich lebe in Westdeutschland. Ich finde, die Regierung sollte die Einwanderung erleichtern. Ich finde, die Regierung sollte Maßnahmen ergreifen, um die Einkommensunterschiede zu verringern. ",20,30,0,0,0,0,"{ ""parteien"" : [
+  { ""name"" : ""Grüne"", ""wahrscheinlichkeit"" : 40 },
+  { ""name"" : ""SPD"", ""wahrscheinlichkeit"" : 30 },
+  { ""name"" : ""CDU/CSU"", ""wahrscheinlichkeit"" : 20 }
+] }"
+69,SPD,"Ich bin 61 Jahre alt. Ich bin männlich. Ich habe einen Realschulabschluss. Ich habe ein niedriges monatliches Haushalts-Nettoeinkommen. Ich bin nicht berufstätig. Ich bin überhaupt nicht religiös. Politisch-ideologisch ordne ich mich in der Mitte ein. Ich identifiziere mich ziemlich schwach mit der Partei AfD. Ich lebe in Westdeutschland. Ich finde, die Regierung sollte die Einwanderung einschränken. Ich finde, die Regierung sollte Maßnahmen ergreifen, um die Einkommensunterschiede zu verringern. ",30,40,0,10,0,0,"{ ""parteien"": [
+  { ""name"": ""CDU/CSU"", ""wahrscheinlichkeit"": 30 },
+  { ""name"": ""SPD"", ""wahrscheinlichkeit"": 40},
+  { ""name"": ""Grüne"", ""wahrscheinlichkeit"": 20},
+  { ""name"": ""AfD"", ""wahrscheinlichkeit"": 10},
+  { ""name"": ""Die Linke"", ""wahrscheinlichkeit"": 0 },
+  { ""name"": ""FDP"", ""wahrscheinlichkeit"": 0 }
+] }"
+70,FDP,"Ich bin 54 Jahre alt. Ich bin weiblich. Ich habe einen Hochschulabschluss. Ich habe ein hohes monatliches Haushalts-Nettoeinkommen. Ich bin nicht berufstätig. Ich bin überhaupt nicht religiös. Politisch-ideologisch ordne ich mich in der Mitte ein. Ich identifiziere mich ziemlich stark mit der Partei FDP. Ich lebe in Westdeutschland. Ich finde, die Regierung sollte die Einwanderung weder erleichtern noch einschränken. Ich finde, die Regierung sollte keine Maßnahmen ergreifen, um die Einkommensunterschiede zu verringern. ",20,10,0,30,5,15,"{ ""parteien"": [
+    { ""name"": ""CDU/CSU"" , ""wahrscheinlichkeit"" : 20 },
+    { ""name"": ""SPD"" , ""wahrscheinlichkeit"" : 10 },
+    { ""name"": ""Grüne"" , ""wahrscheinlichkeit"" : 20},
+    { ""name"": ""AfD"" , ""wahrscheinlichkeit"" : 30 },{ ""name"": ""Die Linke"" , ""wahrscheinlichkeit"" : 5},
+    { ""name"": ""FDP"", ""wahrscheinlichkeit"" : 15 }
+] }"
+71,SPD,"Ich bin 56 Jahre alt. Ich bin männlich. Ich habe einen Realschulabschluss. Ich habe ein mittleres monatliches Haushalts-Nettoeinkommen. Ich bin in Ausbildung. Ich bin überhaupt nicht religiös. Politisch-ideologisch ordne ich mich mittig links ein. Ich identifiziere mich ziemlich stark mit der Partei Die Linke. Ich lebe in Westdeutschland. Ich finde, die Regierung sollte die Einwanderung weder erleichtern noch einschränken. Ich finde, die Regierung sollte Maßnahmen ergreifen, um die Einkommensunterschiede zu verringern. ",5,20,0,10,25,0,"{ ""parteien"": [
+  { ""name"": ""CDU/CSU"", ""wahrscheinlichkeit"": 5 },
+  { ""name"": ""SPD"", ""wahrscheinlichkeit"": 20 },
+  { ""name"": ""Grüne"", ""wahrscheinlichkeit"": 40 },
+  { ""name"": ""AfD"", ""wahrscheinlichkeit"": 10 },
+  { ""name"": ""Die Linke"", ""wahrscheinlichkeit"": 25 },
+  { ""name"": ""FDP"", ""wahrscheinlichkeit"": 0 }
+] }"
+73,FDP,"Ich bin 53 Jahre alt. Ich bin weiblich. Ich habe einen Realschulabschluss. Ich habe ein mittleres monatliches Haushalts-Nettoeinkommen. Ich bin berufstätig. Ich bin etwas religiös. Politisch-ideologisch ordne ich mich in der Mitte ein.  Ich lebe in Westdeutschland. Ich finde, die Regierung sollte die Einwanderung einschränken. Ich finde, die Regierung sollte Maßnahmen ergreifen, um die Einkommensunterschiede zu verringern. ",40,25,20,15,0,0,"{ ""parteien"": [
+  { ""name"": ""SPD"", ""wahrscheinlichkeit"": 25 },
+  { ""name"": ""CDU/CSU"", ""wahrscheinlichkeit"": 40 },
+  { ""name"": ""Grünen"", ""wahrscheinlichkeit"": 20 },
+  { ""name"": ""AfD"", ""wahrscheinlichkeit"": 15 }
+] }"
+74,Bündnis 90/Die Grünen,"Ich bin 64 Jahre alt. Ich bin weiblich. Ich habe Abitur. Ich bin nicht berufstätig. Ich bin etwas religiös. Politisch-ideologisch ordne ich mich in der Mitte ein. Ich identifiziere mich mit keiner Partei. Ich lebe in Westdeutschland. Ich finde, die Regierung sollte die Einwanderung erleichtern. Ich finde, die Regierung sollte Maßnahmen ergreifen, um die Einkommensunterschiede zu verringern. ",60,30,5,0,2,3,"{
+  ""parteien"" : [
+    {
+      ""name"": ""CDU/CSU"",
+      ""wahrscheinlichkeit"": 60
+    },
+    {
+      ""name"": ""SPD"",
+      ""wahrscheinlichkeit"": 30
+    },
+    {
+      ""name"": ""Grünen"",
+      ""wahrscheinlichkeit"": 5
+    },
+    {
+      ""name"": ""AfD"",
+      ""wahrscheinlichkeit"": 0
+    },
+    {
+      ""name"": ""Die Linke"",
+      ""wahrscheinlichkeit"": 2
+    },
+    {
+      ""name"": ""FDP"",
+      ""wahrscheinlichkeit"": 3
+    }
+  ]
+}"
+75,SPD,"Ich bin 49 Jahre alt. Ich bin weiblich. Ich habe Abitur. Ich habe ein mittleres monatliches Haushalts-Nettoeinkommen. Ich bin berufstätig. Ich bin nicht sehr religiös. Politisch-ideologisch ordne ich mich in der Mitte ein. Ich identifiziere mich ziemlich stark mit der Partei SPD. Ich lebe in Westdeutschland. Ich finde, die Regierung sollte die Einwanderung einschränken. Ich finde, die Regierung sollte Maßnahmen ergreifen, um die Einkommensunterschiede zu verringern. ",25,40,0,15,0,20,"{ ""parteien"": [
+    { ""name"": ""SPD"", ""wahrscheinlichkeit"": 40 },
+    { ""name"": ""CDU/CSU"", ""wahrscheinlichkeit"": 25 },
+    { ""name"": ""FDP"", ""wahrscheinlichkeit"": 20 },
+    { ""name"": ""AfD"", ""wahrscheinlichkeit"": 15 }
+] }"
+76,Bündnis 90/Die Grünen,"Ich bin 38 Jahre alt. Ich bin männlich. Ich habe einen Hochschulabschluss. Ich habe ein hohes monatliches Haushalts-Nettoeinkommen. Ich bin berufstätig. Ich bin überhaupt nicht religiös. Politisch-ideologisch ordne ich mich mittig links ein. Ich identifiziere mich mäßig mit der Partei Bündnis 90/Die Grünen. Ich lebe in Westdeutschland. Ich finde, die Regierung sollte die Einwanderung weder erleichtern noch einschränken. Ich finde, die Regierung sollte Maßnahmen ergreifen, um die Einkommensunterschiede zu verringern. ",10,30,40,5,0,15,"{ ""parteien"": [
+	{ ""name"": ""Grünen"", ""wahrscheinlichkeit"": 40 },
+	{ ""name"": ""SPD"", ""wahrscheinlichkeit"": 30 },
+	{ ""name"": ""FDP"", ""wahrscheinlichkeit"": 15 },
+	{ ""name"": ""CDU/CSU"", ""wahrscheinlichkeit"": 10 },
+	{ ""name"": ""AfD"", ""wahrscheinlichkeit"": 5 }
+] }"
+77,Nicht gewählt,"Ich bin 70 Jahre alt. Ich bin männlich. Ich habe einen Hauptschulabschluss. Ich habe ein mittleres monatliches Haushalts-Nettoeinkommen. Ich bin nicht berufstätig. Ich bin etwas religiös. Politisch-ideologisch ordne ich mich stark links ein. Ich identifiziere mich ziemlich stark mit der Partei SPD. Ich lebe in Westdeutschland. Ich finde, die Regierung sollte die Einwanderung weder erleichtern noch einschränken. Ich habe keine Meinung dazu, ob die Regierung Maßnahmen ergreifen sollte, um die Einkommensunterschiede zu verringern. ",10,40,30,0,20,0,"{
+  ""parteien"": [
+    {""name"": ""Die Linke"", ""wahrscheinlichkeit"": 20},
+    {""name"": ""SPD"", ""wahrscheinlichkeit"": 40},
+    {""name"": ""Grünen"", ""wahrscheinlichkeit"": 30},
+    {""name"": ""CDU/CSU"", ""wahrscheinlichkeit"": 10}
+  ]
+}"
+78,SPD,"Ich bin 79 Jahre alt. Ich bin männlich. Ich habe einen Hauptschulabschluss. Ich habe ein mittleres monatliches Haushalts-Nettoeinkommen. Ich bin nicht berufstätig. Ich bin überhaupt nicht religiös. Politisch-ideologisch ordne ich mich in der Mitte ein. Ich identifiziere mich ziemlich stark mit der Partei SPD. Ich lebe in Westdeutschland. Ich finde, die Regierung sollte die Einwanderung weder erleichtern noch einschränken. Ich finde, die Regierung sollte Maßnahmen ergreifen, um die Einkommensunterschiede zu verringern. ",30,40,0,5,0,10,"{ ""parteien"": [
+  { ""name"": ""SPD"", ""wahrscheinlichkeit"": 40 },
+  { ""name"": ""CDU/CSU"", ""wahrscheinlichkeit"": 30 },
+  { ""name"": ""Grüne"", ""wahrscheinlichkeit"": 15 },
+  { ""name"": ""FDP"", ""wahrscheinlichkeit"": 10 },
+  { ""name"": ""AfD"", ""wahrscheinlichkeit"": 5 }
+] }"
+79,Bündnis 90/Die Grünen,"Ich bin 46 Jahre alt. Ich bin männlich. Ich habe einen Hochschulabschluss. Ich habe ein mittleres monatliches Haushalts-Nettoeinkommen. Ich bin berufstätig. Ich bin nicht sehr religiös. Politisch-ideologisch ordne ich mich mittig links ein. Ich identifiziere mich mäßig mit der Partei Bündnis 90/Die Grünen. Ich lebe in Westdeutschland. Ich finde, die Regierung sollte die Einwanderung erleichtern. Ich finde, die Regierung sollte Maßnahmen ergreifen, um die Einkommensunterschiede zu verringern. ",5,40,30,0,0,5,"{ ""parteien"": [
+  { ""name"": ""SPD"", ""wahrscheinlichkeit"": 40 },
+  { ""name"": ""Grünen"", ""wahrscheinlichkeit"": 30 },
+  { ""name"": ""Linke"", ""wahrscheinlichkeit"": 20 },
+  { ""name"": ""CDU/CSU"", ""wahrscheinlichkeit"": 5 },
+  { ""name"": ""FDP"", ""wahrscheinlichkeit"": 5 }
+] }"
+80,Nicht gewählt,"Ich bin 40 Jahre alt. Ich bin männlich. Ich habe einen Realschulabschluss. Ich habe ein mittleres monatliches Haushalts-Nettoeinkommen. Ich bin berufstätig. Ich bin nicht sehr religiös. Politisch-ideologisch ordne ich mich in der Mitte ein. Ich identifiziere mich ziemlich stark mit der Partei SPD. Ich lebe in Westdeutschland. Ich finde, die Regierung sollte die Einwanderung erleichtern. Ich finde, die Regierung sollte Maßnahmen ergreifen, um die Einkommensunterschiede zu verringern. ",15,60,25,0,0,0,"{ ""parteien"": [
+  { ""name"": ""SPD"", ""wahrscheinlichkeit"": 60 },
+  { ""name"": ""Grünen"", ""wahrscheinlichkeit"": 25 },
+  { ""name"": ""CDU/CSU"", ""wahrscheinlichkeit"": 15 }
+] }"
+81,FDP,"Ich bin 52 Jahre alt. Ich bin männlich. Ich habe einen Realschulabschluss. Ich habe ein mittleres monatliches Haushalts-Nettoeinkommen. Ich bin berufstätig. Ich bin überhaupt nicht religiös. Politisch-ideologisch ordne ich mich in der Mitte ein. Ich identifiziere mich mit keiner Partei. Ich lebe in Westdeutschland. Ich finde, die Regierung sollte die Einwanderung einschränken. Ich finde, die Regierung sollte Maßnahmen ergreifen, um die Einkommensunterschiede zu verringern. ",35,45,5,0,0,15,"{ ""parteien"": [ { ""name"": ""SPD"", ""wahrscheinlichkeit"": 45 }, { ""name"": ""CDU/CSU"", ""wahrscheinlichkeit"": 35 }, { ""name"": ""FDP"", ""wahrscheinlichkeit"": 15 }, { ""name"": ""Grünen"", ""wahrscheinlichkeit"": 5 } ] }"
+82,Die Linke,"Ich bin 55 Jahre alt. Ich bin männlich. Ich habe einen Realschulabschluss. Ich habe ein mittleres monatliches Haushalts-Nettoeinkommen. Ich bin berufstätig. Ich bin überhaupt nicht religiös. Politisch-ideologisch ordne ich mich mittig links ein. Ich identifiziere mich ziemlich stark mit der Partei Die Linke. Ich lebe in Westdeutschland. Ich finde, die Regierung sollte die Einwanderung erleichtern. Ich finde, die Regierung sollte Maßnahmen ergreifen, um die Einkommensunterschiede zu verringern. ",0,20,60,0,20,0,"{ ""parteien"": [
+  { ""name"": ""CDU/CSU"" , ""wahrscheinlichkeit"": 0 },
+  { ""name"": ""SPD"" , ""wahrscheinlichkeit"": 20},
+  { ""name"": ""Grünen"" , ""wahrscheinlichkeit"": 60},
+  { ""name"": ""AfD"" , ""wahrscheinlichkeit"": 0 },
+  { ""name"": ""Die Linke"", ""wahrscheinlichkeit"": 20},
+  {""name"":""FDP"",""wahrscheinlichkeit"":0}
+] }"
+83,CDU/CSU,"Ich bin 43 Jahre alt. Ich bin männlich. Ich habe einen Realschulabschluss. Ich habe ein mittleres monatliches Haushalts-Nettoeinkommen. Ich bin berufstätig. Ich bin nicht sehr religiös. Politisch-ideologisch ordne ich mich in der Mitte ein. Ich identifiziere mich mäßig mit der Partei CDU/CSU. Ich lebe in Westdeutschland. Ich finde, die Regierung sollte die Einwanderung einschränken. Ich finde, die Regierung sollte Maßnahmen ergreifen, um die Einkommensunterschiede zu verringern. ",30,40,5,20,2,3,"{ ""parteien"": [
+    { ""name"": ""CDU/CSU"", ""wahrscheinlichkeit"": 30 },
+    { ""name"": ""SPD"", ""wahrscheinlichkeit"": 40 },
+    { ""name"": ""AfD"", ""wahrscheinlichkeit"": 20 },
+    { ""name"": ""Grünen"", ""wahrscheinlichkeit"": 5 },
+    { ""name"": ""FDP"", ""wahrscheinlichkeit"": 3 },
+    { ""name"": ""Die Linke"", ""wahrscheinlichkeit"": 2 }
+] }"
+84,SPD,"Ich bin 23 Jahre alt. Ich bin männlich. Ich habe Abitur. Ich bin in Ausbildung. Ich bin nicht sehr religiös. Politisch-ideologisch ordne ich mich in der Mitte ein. Ich identifiziere mich mit keiner Partei. Ich lebe in Westdeutschland. Ich finde, die Regierung sollte die Einwanderung einschränken. Ich finde, die Regierung sollte Maßnahmen ergreifen, um die Einkommensunterschiede zu verringern. ",30,40,20,0,0,0,"{ ""parteien"": [
+  { ""name"": ""CDU/CSU"", ""wahrscheinlichkeit"": 30 },
+  { ""name"": ""SPD"", ""wahrscheinlichkeit"": 40},
+  { ""name"": ""Grünen"", ""wahrscheinlichkeit"": 20 }
+] }"
+85,Bündnis 90/Die Grünen,"Ich bin 43 Jahre alt. Ich bin männlich. Ich habe einen Hochschulabschluss. Ich habe ein mittleres monatliches Haushalts-Nettoeinkommen. Ich bin nicht berufstätig. Ich bin nicht sehr religiös. Politisch-ideologisch ordne ich mich mittig links ein. Ich identifiziere mich ziemlich stark mit der Partei Bündnis 90/Die Grünen. Ich lebe in Westdeutschland. Ich finde, die Regierung sollte die Einwanderung erleichtern. Ich finde, die Regierung sollte Maßnahmen ergreifen, um die Einkommensunterschiede zu verringern. ",0,10,0,0,0,3,"{ ""parteien"": [
+  { ""name"": ""Grüne"", ""wahrscheinlichkeit"": 85 },
+  { ""name"": ""SPD"", ""wahrscheinlichkeit"": 10 },
+  { ""name"": ""FDP"", ""wahrscheinlichkeit"": 3 }
+] }"
+86,Die Linke,"Ich bin 68 Jahre alt. Ich bin weiblich. Ich habe einen Hauptschulabschluss. Ich habe ein mittleres monatliches Haushalts-Nettoeinkommen. Ich bin nicht berufstätig. Ich bin nicht sehr religiös. Politisch-ideologisch ordne ich mich stark rechts ein. Ich identifiziere mich ziemlich stark mit der Partei SPD. Ich lebe in Westdeutschland. Ich finde, die Regierung sollte die Einwanderung einschränken. Ich finde, die Regierung sollte Maßnahmen ergreifen, um die Einkommensunterschiede zu verringern. ",60,10,5,3,2,20,"{ ""parteien"": [
+    { ""name"": ""CDU/CSU"", ""wahrscheinlichkeit"": 60 },
+    { ""name"": ""FDP"", ""wahrscheinlichkeit"": 20 },
+    { ""name"": ""SPD"", ""wahrscheinlichkeit"": 10 },
+    { ""name"": ""Grünen"", ""wahrscheinlichkeit"": 5 },
+    { ""name"": ""AfD"", ""wahrscheinlichkeit"": 3 },
+    { ""name"": ""Die Linke"", ""wahrscheinlichkeit"": 2 }
+] }"
+87,SPD,"Ich bin 57 Jahre alt. Ich bin männlich. Ich habe einen Realschulabschluss. Ich habe ein mittleres monatliches Haushalts-Nettoeinkommen. Ich bin berufstätig. Ich bin überhaupt nicht religiös. Politisch-ideologisch ordne ich mich mittig links ein. Ich identifiziere mich mäßig mit der Partei SPD. Ich lebe in Westdeutschland. Ich finde, die Regierung sollte die Einwanderung erleichtern. Ich finde, die Regierung sollte keine Maßnahmen ergreifen, um die Einkommensunterschiede zu verringern. ",20,30,40,5,5,0,"{
+  ""parteien"": [
+    {
+      ""name"": ""SPD"",
+      ""wahrscheinlichkeit"": 30
+    },
+    {
+      ""name"": ""Grünen"",
+      ""wahrscheinlichkeit"": 40
+    },
+    {
+      ""name"": ""CDU/CSU"",
+      ""wahrscheinlichkeit"": 20
+    },
+    {
+      ""name"": ""AfD"",
+      ""wahrscheinlichkeit"": 5
+    },
+    {
+      ""name"": ""Die Linke"",
+      ""wahrscheinlichkeit"": 5
+    },
+    {
+      ""name"": ""FDP"",
+      ""wahrscheinlichkeit"": 0
+    }
+  ]
+}"
+88,Bündnis 90/Die Grünen,"Ich bin 44 Jahre alt. Ich bin weiblich. Ich habe einen Hochschulabschluss. Ich habe ein hohes monatliches Haushalts-Nettoeinkommen. Ich bin berufstätig. Ich bin nicht sehr religiös. Politisch-ideologisch ordne ich mich mittig links ein. Ich identifiziere mich mäßig mit der Partei Bündnis 90/Die Grünen. Ich lebe in Westdeutschland. Ich finde, die Regierung sollte die Einwanderung erleichtern. Ich finde, die Regierung sollte Maßnahmen ergreifen, um die Einkommensunterschiede zu verringern. ",10,50,30,5,0,5,"{ ""parteien"": [ { ""name"": ""CDU/CSU"", ""wahrscheinlichkeit"": 10 }, { ""name"": ""SPD"", ""wahrscheinlichkeit"": 50 }, { ""name"": ""Grünen"", ""wahrscheinlichkeit"": 30 }, { ""name"": ""AfD"", ""wahrscheinlichkeit"": 5 }, { ""name"": ""Die Linke"", ""wahrscheinlichkeit"": 0 }, { ""name"": ""FDP"", ""wahrscheinlichkeit"": 5 } ] }"
+89,SPD,"Ich bin 74 Jahre alt. Ich bin weiblich. Ich habe einen Realschulabschluss. Ich habe ein mittleres monatliches Haushalts-Nettoeinkommen. Ich bin nicht berufstätig. Ich bin etwas religiös. Politisch-ideologisch ordne ich mich in der Mitte ein. Ich identifiziere mich ziemlich stark mit der Partei SPD. Ich lebe in Westdeutschland. Ich finde, die Regierung sollte die Einwanderung weder erleichtern noch einschränken. Ich finde, die Regierung sollte keine Maßnahmen ergreifen, um die Einkommensunterschiede zu verringern. ",40,30,0,10,0,20,"{ ""parteien"": [
+  { ""name"": ""CDU/CSU"", ""wahrscheinlichkeit"": 40 },
+  { ""name"": ""SPD"", ""wahrscheinlichkeit"": 30 },
+  { ""name"": ""FDP"", ""wahrscheinlichkeit"": 20},
+  { ""name"": ""AfD"", ""wahrscheinlichkeit"": 10 }
+]}
+ "
+90,SPD,"Ich bin 34 Jahre alt. Ich bin weiblich. Ich habe Abitur. Ich habe ein mittleres monatliches Haushalts-Nettoeinkommen. Ich bin berufstätig. Ich bin etwas religiös. Politisch-ideologisch ordne ich mich mittig links ein. Ich identifiziere mich ziemlich stark mit der Partei Die Linke. Ich lebe in Westdeutschland. Ich finde, die Regierung sollte die Einwanderung erleichtern. Ich finde, die Regierung sollte Maßnahmen ergreifen, um die Einkommensunterschiede zu verringern. ",0,15,5,0,80,0,"{ ""parteien"": [
+  {""name"": ""Die Linke"", ""wahrscheinlichkeit"": 80},
+  {""name"": ""SPD"", ""wahrscheinlichkeit"": 15},
+  {""name"": ""Grünen"", ""wahrscheinlichkeit"": 5}
+] }"
+91,Bündnis 90/Die Grünen,"Ich bin 70 Jahre alt. Ich bin weiblich. Ich habe einen Hochschulabschluss. Ich habe ein hohes monatliches Haushalts-Nettoeinkommen. Ich bin nicht berufstätig. Ich bin überhaupt nicht religiös. Politisch-ideologisch ordne ich mich mittig links ein. Ich identifiziere mich ziemlich stark mit der Partei Bündnis 90/Die Grünen. Ich lebe in Westdeutschland. Ich finde, die Regierung sollte die Einwanderung weder erleichtern noch einschränken. Ich finde, die Regierung sollte Maßnahmen ergreifen, um die Einkommensunterschiede zu verringern. ",20,30,40,5,3,2,"{ ""parteien"": [
+  { ""name"": ""CDU/CSU"" , ""wahrscheinlichkeit"": 20 },
+  { ""name"": ""SPD"" , ""wahrscheinlichkeit"": 30},
+  { ""name"": ""Grünen"" , ""wahrscheinlichkeit"": 40},
+  { ""name"": ""AfD"", ""wahrscheinlichkeit"": 5},
+  { ""name"": ""Die Linke"", ""wahrscheinlichkeit"": 3 },
+  { ""name"": ""FDP"", ""wahrscheinlichkeit"": 2 }
+] }"
+92,Andere Partei,"Ich bin 20 Jahre alt. Ich bin männlich. Ich habe einen Realschulabschluss. Ich habe ein hohes monatliches Haushalts-Nettoeinkommen. Ich bin berufstätig. Ich bin nicht sehr religiös. Politisch-ideologisch ordne ich mich stark links ein. Ich identifiziere mich mit keiner Partei. Ich lebe in Westdeutschland. Ich finde, die Regierung sollte die Einwanderung erleichtern. Ich finde, die Regierung sollte Maßnahmen ergreifen, um die Einkommensunterschiede zu verringern. ",5,45,15,0,35,0,"{ ""parteien"": [
+  { ""name"": ""SPD"", ""wahrscheinlichkeit"": 45 },
+  { ""name"": ""Die Linke"", ""wahrscheinlichkeit"": 35 },
+  { ""name"": ""Grünen"", ""wahrscheinlichkeit"": 15 },
+  { ""name"": ""CDU/CSU"", ""wahrscheinlichkeit"": 5 }
+] }"
+93,Bündnis 90/Die Grünen,"Ich bin 44 Jahre alt. Ich bin männlich. Ich habe einen Hochschulabschluss. Ich habe ein mittleres monatliches Haushalts-Nettoeinkommen. Ich bin berufstätig. Ich bin nicht sehr religiös. Politisch-ideologisch ordne ich mich in der Mitte ein. Ich identifiziere mich mäßig mit der Partei Bündnis 90/Die Grünen. Ich lebe in Westdeutschland. Ich finde, die Regierung sollte die Einwanderung einschränken. Ich finde, die Regierung sollte Maßnahmen ergreifen, um die Einkommensunterschiede zu verringern. ",40,30,0,5,2,3,"{ ""parteien"": [
+    { ""name"": ""CDU/CSU"", ""wahrscheinlichkeit"": 40 },
+    { ""name"": ""SPD"", ""wahrscheinlichkeit"": 30 },
+    { ""name"": ""Grüne"", ""wahrscheinlichkeit"": 20},
+    { ""name"": ""AfD"", ""wahrscheinlichkeit"": 5 },
+    { ""name"": ""Die Linke"", ""wahrscheinlichkeit"": 2 },
+    { ""name"": ""FDP"", ""wahrscheinlichkeit"": 3 }
+] }"
+94,Die Linke,"Ich bin 35 Jahre alt. Ich bin männlich. Ich habe Abitur. Ich habe ein niedriges monatliches Haushalts-Nettoeinkommen. Ich bin in Ausbildung. Ich bin überhaupt nicht religiös. Politisch-ideologisch ordne ich mich stark links ein. Ich identifiziere mich ziemlich stark mit der Partei Die Linke. Ich lebe in Westdeutschland. Ich finde, die Regierung sollte die Einwanderung erleichtern. Ich finde, die Regierung sollte Maßnahmen ergreifen, um die Einkommensunterschiede zu verringern. ",0,15,3,0,80,1,"{ ""parteien"": [
+  { ""name"": ""Die Linke"", ""wahrscheinlichkeit"": 80 },
+  { ""name"": ""SPD"", ""wahrscheinlichkeit"": 15 },
+  { ""name"": ""Grünen"", ""wahrscheinlichkeit"": 3 },
+  { ""name"": ""FDP"", ""wahrscheinlichkeit"": 1 },
+  { ""name"": ""AfD"", ""wahrscheinlichkeit"": 0 }
+] }"
+95,SPD,"Ich bin 26 Jahre alt. Ich bin weiblich. Ich habe einen Hochschulabschluss. Ich habe ein mittleres monatliches Haushalts-Nettoeinkommen. Ich bin in Ausbildung. Ich bin überhaupt nicht religiös. Politisch-ideologisch ordne ich mich mittig links ein. Ich identifiziere mich ziemlich stark mit der Partei SPD. Ich lebe in Westdeutschland. Ich finde, die Regierung sollte die Einwanderung erleichtern. Ich finde, die Regierung sollte Maßnahmen ergreifen, um die Einkommensunterschiede zu verringern. ",5,60,20,2,0,3,"{ ""parteien"": [
+  { ""name"": ""SPD"", ""wahrscheinlichkeit"": 60 },
+  { ""name"": ""Grünen"", ""wahrscheinlichkeit"": 20 },
+  { ""name"": ""Linke"", ""wahrscheinlichkeit"": 10 },
+  { ""name"": ""CDU/CSU"", ""wahrscheinlichkeit"": 5 },
+  { ""name"": ""FDP"", ""wahrscheinlichkeit"": 3 },
+  { ""name"": ""AfD"", ""wahrscheinlichkeit"": 2 }
+] }"
+96,Bündnis 90/Die Grünen,"Ich bin 52 Jahre alt. Ich bin weiblich. Ich habe Abitur. Ich habe ein mittleres monatliches Haushalts-Nettoeinkommen. Ich bin berufstätig. Ich bin überhaupt nicht religiös. Politisch-ideologisch ordne ich mich mittig links ein. Ich identifiziere mich ziemlich schwach mit der Partei SPD. Ich lebe in Westdeutschland. Ich finde, die Regierung sollte die Einwanderung einschränken. Ich finde, die Regierung sollte Maßnahmen ergreifen, um die Einkommensunterschiede zu verringern. ",20,15,40,10,5,10,"{ ""parteien"": [
+  { ""name"": ""FDP"", ""wahrscheinlichkeit"": 10 },
+  { ""name"": ""Grünen"", ""wahrscheinlichkeit"": 40 },
+  { ""name"": ""CDU/CSU"", ""wahrscheinlichkeit"": 20 },
+  { ""name"": ""SPD"", ""wahrscheinlichkeit"": 15 },
+  { ""name"": ""AfD"", ""wahrscheinlichkeit"": 10 },
+  { ""name"": ""Die Linke"", ""wahrscheinlichkeit"": 5 }
+] }"
+97,Bündnis 90/Die Grünen,"Ich bin 46 Jahre alt. Ich bin weiblich. Ich habe einen Hochschulabschluss. Ich habe ein mittleres monatliches Haushalts-Nettoeinkommen. Ich bin berufstätig. Ich bin überhaupt nicht religiös. Politisch-ideologisch ordne ich mich mittig links ein. Ich identifiziere mich ziemlich stark mit der Partei Bündnis 90/Die Grünen. Ich lebe in Westdeutschland. Ich finde, die Regierung sollte die Einwanderung erleichtern. Ich finde, die Regierung sollte Maßnahmen ergreifen, um die Einkommensunterschiede zu verringern. ",5,20,0,0,2,3,"{
+  ""parteien"": [
+    {
+      ""name"": ""Bündnis 90/Die Grünen"",
+      ""wahrscheinlichkeit"": 70
+    },
+    {
+      ""name"": ""SPD"",
+      ""wahrscheinlichkeit"": 20
+    },
+    {
+      ""name"": ""CDU/CSU"",
+      ""wahrscheinlichkeit"": 5
+    },
+    {
+      ""name"": ""FDP"",
+      ""wahrscheinlichkeit"": 3
+    },
+    {
+      ""name"": ""Die Linke"",
+      ""wahrscheinlichkeit"": 2
+    }
+  ]
+}"
+98,FDP,"Ich bin 67 Jahre alt. Ich bin männlich. Ich habe einen Hochschulabschluss. Ich habe ein mittleres monatliches Haushalts-Nettoeinkommen. Ich bin nicht berufstätig. Ich bin etwas religiös. Politisch-ideologisch ordne ich mich in der Mitte ein. Ich identifiziere mich mit keiner Partei. Ich lebe in Westdeutschland. Ich finde, die Regierung sollte die Einwanderung weder erleichtern noch einschränken. Ich finde, die Regierung sollte keine Maßnahmen ergreifen, um die Einkommensunterschiede zu verringern. ",40,30,20,0,0,10,"{
+  ""parteien"": [
+    {""name"": ""CDU/CSU"", ""wahrscheinlichkeit"": 40},
+    {""name"": ""SPD"", ""wahrscheinlichkeit"": 30},
+    {""name"": ""Grünen"", ""wahrscheinlichkeit"": 20},
+    {""name"": ""FDP"", ""wahrscheinlichkeit"": 10}
+  ]
+}"
+99,Die Linke,"Ich bin 31 Jahre alt. Ich bin männlich. Ich habe einen Hochschulabschluss. Ich habe ein mittleres monatliches Haushalts-Nettoeinkommen. Ich bin berufstätig. Ich bin überhaupt nicht religiös. Politisch-ideologisch ordne ich mich mittig links ein. Ich identifiziere mich ziemlich stark mit der Partei Die Linke. Ich lebe in Westdeutschland. Ich finde, die Regierung sollte die Einwanderung weder erleichtern noch einschränken. Ich finde, die Regierung sollte Maßnahmen ergreifen, um die Einkommensunterschiede zu verringern. ",10,20,30,15,70,15,"{ ""parteien"": [
+  {""name"": ""CDU/CSU"", ""wahrscheinlichkeit"": 10},
+  {""name"": ""SPD"", ""wahrscheinlichkeit"": 20},
+  {""name"": ""Grünen"", ""wahrscheinlichkeit"": 30},
+  {""name"": ""AfD"", ""wahrscheinlichkeit"": 15},
+  {""name"": ""Die Linke"", ""wahrscheinlichkeit"": 70},
+  {""name"": ""FDP"", ""wahrscheinlichkeit"": 15}
+] }"
+100,CDU/CSU,"Ich bin 22 Jahre alt. Ich bin männlich. Ich habe einen Hochschulabschluss. Ich habe ein niedriges monatliches Haushalts-Nettoeinkommen. Ich bin in Ausbildung. Ich bin etwas religiös. Politisch-ideologisch ordne ich mich in der Mitte ein. Ich identifiziere mich mäßig mit der Partei Bündnis 90/Die Grünen. Ich lebe in Westdeutschland. Ich finde, die Regierung sollte die Einwanderung weder erleichtern noch einschränken. Ich habe keine Meinung dazu, ob die Regierung Maßnahmen ergreifen sollte, um die Einkommensunterschiede zu verringern. ",20,15,25,20,0,20,"{
+  ""parteien"": [
+    {
+      ""name"": ""CDU/CSU"",
+      ""wahrscheinlichkeit"": 20
+    },
+    {
+      ""name"": ""SPD"",
+      ""wahrscheinlichkeit"": 15
+    },
+    {
+      ""name"": ""Grünen"",
+      ""wahrscheinlichkeit"": 25
+    },
+    {
+      ""name"": ""AfD"",
+      ""wahrscheinlichkeit"": 20
+    },
+    {
+      ""name"": ""Die Linke"",
+      ""wahrscheinlichkeit"": 0
+    },
+    {
+      ""name"": ""FDP"",
+      ""wahrscheinlichkeit"": 20
+    }
+  ]
+}"
+101,CDU/CSU,"Ich bin 31 Jahre alt. Ich bin männlich. Ich habe einen Hochschulabschluss. Ich habe ein mittleres monatliches Haushalts-Nettoeinkommen. Ich bin berufstätig. Ich bin nicht sehr religiös. Politisch-ideologisch ordne ich mich in der Mitte ein. Ich identifiziere mich mäßig mit der Partei CDU/CSU. Ich lebe in Westdeutschland. Ich finde, die Regierung sollte die Einwanderung erleichtern. Ich finde, die Regierung sollte Maßnahmen ergreifen, um die Einkommensunterschiede zu verringern. ",20,35,0,0,0,40,"{ ""parteien"" : [
+  { ""name"": ""FDP"", ""wahrscheinlichkeit"": 40 },
+  { ""name"": ""SPD"", ""wahrscheinlichkeit"": 35},
+  { ""name"": ""CDU/CSU"", ""wahrscheinlichkeit"": 20 },
+  { ""name"": ""Grüne"", ""wahrscheinlichkeit"": 5 }
+]
+}"
+102,CDU/CSU,"Ich bin 29 Jahre alt. Ich bin weiblich. Ich habe einen Hochschulabschluss. Ich habe ein mittleres monatliches Haushalts-Nettoeinkommen. Ich bin berufstätig. Ich bin sehr religiös. Politisch-ideologisch ordne ich mich in der Mitte ein. Ich identifiziere mich mäßig mit der Partei Bündnis 90/Die Grünen. Ich lebe in Westdeutschland. Ich finde, die Regierung sollte die Einwanderung einschränken. Ich habe keine Meinung dazu, ob die Regierung Maßnahmen ergreifen sollte, um die Einkommensunterschiede zu verringern. ",40,20,0,30,0,10,"{ ""parteien"" : [
+  { ""name"": ""CDU/CSU"", ""wahrscheinlichkeit"": 40 },
+  { ""name"": ""SPD"", ""wahrscheinlichkeit"": 20 },
+  { ""name"": ""FDP"", ""wahrscheinlichkeit"": 10 },
+  { ""name"": ""AfD"", ""wahrscheinlichkeit"": 30 }
+] }"
+104,CDU/CSU,"Ich bin 34 Jahre alt. Ich bin weiblich. Ich habe einen Hochschulabschluss. Ich habe ein mittleres monatliches Haushalts-Nettoeinkommen. Ich bin berufstätig. Ich bin etwas religiös. Politisch-ideologisch ordne ich mich in der Mitte ein. Ich identifiziere mich ziemlich stark mit der Partei CDU/CSU. Ich lebe in Westdeutschland. Ich finde, die Regierung sollte die Einwanderung erleichtern. Ich finde, die Regierung sollte Maßnahmen ergreifen, um die Einkommensunterschiede zu verringern. ",80,15,0,2,0,0,"{ ""parteien"" : [
+  { ""name"": ""CDU/CSU"", ""wahrscheinlichkeit"": 80 },
+  { ""name"": ""SPD"", ""wahrscheinlichkeit"": 15 },
+  { ""name"": ""Grüne"", ""wahrscheinlichkeit"": 3},
+  { ""name"": ""AfD"", ""wahrscheinlichkeit"": 2},
+  { ""name"": ""Die Linke"", ""wahrscheinlichkeit"": 0},
+  { ""name"": ""FDP"", ""wahrscheinlichkeit"": 0}
+]}
+ "
+105,Bündnis 90/Die Grünen,"Ich bin 32 Jahre alt. Ich bin männlich. Ich habe einen Realschulabschluss. Ich habe ein mittleres monatliches Haushalts-Nettoeinkommen. Ich bin berufstätig. Ich bin etwas religiös. Politisch-ideologisch ordne ich mich mittig links ein. Ich identifiziere mich ziemlich stark mit der Partei SPD. Ich lebe in Westdeutschland. Ich finde, die Regierung sollte die Einwanderung erleichtern. Ich finde, die Regierung sollte Maßnahmen ergreifen, um die Einkommensunterschiede zu verringern. ",10,60,20,0,0,0,"{
+  ""parteien"": [
+    {
+      ""name"": ""SPD"",
+      ""wahrscheinlichkeit"": 60
+    },
+    {
+      ""name"": ""Grünen"",
+      ""wahrscheinlichkeit"": 20
+    },
+    {
+      ""name"": ""CDU/CSU"",
+      ""wahrscheinlichkeit"": 10
+    }
+  ]
+}"
+106,Die Linke,"Ich bin 20 Jahre alt. Ich bin männlich. Ich habe Abitur. Ich habe ein mittleres monatliches Haushalts-Nettoeinkommen. Ich bin in Ausbildung. Ich bin etwas religiös. Politisch-ideologisch ordne ich mich in der Mitte ein. Ich identifiziere mich mit keiner Partei. Ich lebe in Westdeutschland. Ich finde, die Regierung sollte die Einwanderung weder erleichtern noch einschränken. Ich habe keine Meinung dazu, ob die Regierung Maßnahmen ergreifen sollte, um die Einkommensunterschiede zu verringern. ",40,30,10,5,0,15,"{ ""parteien"": [ { ""name"": ""CDU/CSU"", ""wahrscheinlichkeit"": 40 }, { ""name"": ""SPD"", ""wahrscheinlichkeit"": 30 }, { ""name"": ""FDP"", ""wahrscheinlichkeit"": 15 }, { ""name"": ""Grünen"", ""wahrscheinlichkeit"": 10 }, { ""name"": ""AfD"", ""wahrscheinlichkeit"": 5 } ] }"
+107,Die Linke,"Ich bin 26 Jahre alt. Ich bin männlich. Ich habe Abitur. Ich habe ein niedriges monatliches Haushalts-Nettoeinkommen. Ich bin in Ausbildung. Ich bin überhaupt nicht religiös. Politisch-ideologisch ordne ich mich in der Mitte ein. Ich identifiziere mich mit keiner Partei. Ich lebe in Westdeutschland. Ich finde, die Regierung sollte die Einwanderung erleichtern. Ich finde, die Regierung sollte Maßnahmen ergreifen, um die Einkommensunterschiede zu verringern. ",5,30,0,2,0,3,"{
+  ""parteien"": [
+    {
+      ""name"": ""Grüne"",
+      ""wahrscheinlichkeit"": 60
+    },
+    {
+      ""name"": ""SPD"",
+      ""wahrscheinlichkeit"": 30
+    },
+    {
+      ""name"": ""CDU/CSU"",
+      ""wahrscheinlichkeit"": 5
+    },
+    {
+      ""name"": ""FDP"",
+      ""wahrscheinlichkeit"": 3
+    },
+    {
+      ""name"": ""AfD"",
+      ""wahrscheinlichkeit"": 2
+    },
+    {
+      ""name"": ""Die Linke"",
+      ""wahrscheinlichkeit"": 0
+    }
+  ]
+}"
+108,FDP,"Ich bin 20 Jahre alt. Ich bin weiblich. Ich habe Abitur. Ich habe ein hohes monatliches Haushalts-Nettoeinkommen. Ich bin in Ausbildung. Ich bin nicht sehr religiös. Politisch-ideologisch ordne ich mich mittig links ein. Ich identifiziere mich mit keiner Partei. Ich lebe in Westdeutschland. Ich finde, die Regierung sollte die Einwanderung erleichtern. Ich finde, die Regierung sollte Maßnahmen ergreifen, um die Einkommensunterschiede zu verringern. ",4,45,30,5,1,15,"{ ""parteien"": [
+  { ""name"": ""SPD"", ""wahrscheinlichkeit"": 45 },
+  { ""name"": ""Grünen"", ""wahrscheinlichkeit"": 30 },
+  { ""name"": ""FDP"", ""wahrscheinlichkeit"": 15 },
+  { ""name"": ""AfD"", ""wahrscheinlichkeit"": 5 },
+  { ""name"": ""CDU/CSU"", ""wahrscheinlichkeit"": 4 },
+  { ""name"": ""Die Linke"", ""wahrscheinlichkeit"": 1 }
+]
+}"
